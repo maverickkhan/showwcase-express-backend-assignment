@@ -127,4 +127,4 @@ The Postman collection (in JSON format) is included in the repository. You can i
 
 - Make sure to run the necessary database migrations and keep the database schema up-to-date.
 
-Thank you for checking out our project! If you have any questions or issues, please feel free to reach out to us. Happy coding!
+Thank you for checking out my work! If you have any questions or issues, please feel free to reach out to me! Happy coding!
